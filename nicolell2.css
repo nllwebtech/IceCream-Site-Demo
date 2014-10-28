@@ -1,0 +1,85 @@
+nav ul li{
+	
+	display: inline-block;
+	padding-bottom: 15px;
+	float: left;	
+	}
+
+
+.button {
+  		
+  		background-color: #f85931;
+  		border: 1px solid #E8DDCB;
+  		color: #E8DDCB;
+  		border-radius: 50%;
+		text-decoration: none;
+		padding:3px;
+	
+}
+
+body{
+	background-color: #0B2E59;
+	margin: 0 auto;
+	color: #E8DDCB;
+	
+	
+}
+
+.main{
+	background-color: #E8DDCB;
+	width: 850px;
+	height:600px;
+	border: #000 solid 1px;
+	color: #000;
+	margin: 0 auto;
+	
+	
+	
+	
+}
+
+.footer{
+	text-decoration: none;
+	color: #E8DDCB;
+	background-color: #CE1836;
+	border: #000 solid 1px;
+	width: 850px;
+	height: 50px;
+	margin: 0 auto;
+	
+
+}
+
+#icshop{
+	
+	padding-left: 20px;
+}
+
+header{
+	
+    	width: 850px;
+	height: 180px;
+	color: #E8DDCB;
+	margin: 0 auto;
+	
+	
+}
+
+header h1{
+	float: center;
+	padding-top:5px;
+}
+
+header p{
+	float: right;
+	padding-top:20px;
+	padding-right: 5px;
+}
+.nav{
+	width: 850px;
+	height: 150px;
+	border: #000 solid 1px;
+	color: #E8DDCB;
+	background-color: #CE1836;
+
+}
